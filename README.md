@@ -15,3 +15,7 @@ Deuxième commit dans git_stash
 test du merge conflit 1 
 test du merge conflit 2 
 test du merge conflit 3
+
+commit 1 squash
+commit 2 squash
+commit 3 squash 
