@@ -18,3 +18,4 @@ test du merge conflit 3
 
 commit 1 squash
 commit 2 squash
+commit 3 squash 
