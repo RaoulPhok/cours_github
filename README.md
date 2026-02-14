@@ -13,3 +13,4 @@ Premier commit dans git_stash
 Deuxième commit dans git_stash
 
 test du merge conflit 1
+test du merge conflit 2
